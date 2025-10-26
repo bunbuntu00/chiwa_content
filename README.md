@@ -115,3 +115,8 @@ platform_variants/            # 平台變體（六個目錄）
 
 - 2025-10-27 重新編排 README，升級為 **產品級 Extended 版本**（包含規範、矩陣與 Roadmap）。
 
+---
+
+## 9. Boot Prompt
+
+> See `docs/BOOT_PROMPT.md` for the boot prompt.
