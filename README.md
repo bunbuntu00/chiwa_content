@@ -10,6 +10,6 @@
 - ✅ Phase 5 — Visual Library scaffold
 - ✅ Phase 6 — Mamá Chiwa voice library
 - ✅ Phase 8 — Demo content seeds
-- 🔄 Sync — Keyword Map → GitHub **45 / 65** 初始化（進行中）
+- 🔄 Sync — Keyword Map → GitHub **55 / 65** 初始化（進行中）
 
 Detail roadmap: docs/ROADMAP.md
