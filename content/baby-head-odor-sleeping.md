@@ -1,9 +1,9 @@
-title: 可機洗睡墊推薦
-slug: washable-mat-recommend
-stage: THINK
+title: 寶寶睡覺頭很臭
+slug: baby-head-odor-sleeping
+stage: SEE
 intent: ['Search (SEO)']
-emotion: ['焦慮']
-usp: ['可機洗', '抗菌', '快乾']
+emotion: ['臭', '焦慮']
+usp: ['可機洗', '抗臭', '抗菌']
 search_volume: 
 content_count: 
 status: draft

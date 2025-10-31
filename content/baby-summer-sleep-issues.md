@@ -1,9 +1,9 @@
-title: 抗臭睡墊推薦
-slug: odor-resistant-mat-recommend
-stage: THINK
-intent: ['Search (SEO)']
-emotion: ['臭', '焦慮']
-usp: ['抗臭', '抗菌', '可機洗']
+title: 寶寶夏季睡眠問題
+slug: baby-summer-sleep-issues
+stage: SEE
+intent: ['Blog']
+emotion: ['熱', '睡不好']
+usp: ['涼感', '溫度管理', '透氣']
 search_volume: 
 content_count: 
 status: draft

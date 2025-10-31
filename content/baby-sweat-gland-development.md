@@ -1,9 +1,9 @@
-title: 夏天睡墊推薦
-slug: summer-mat-recommend
-stage: THINK
-intent: ['Search (SEO)']
-emotion: ['熱', '濕']
-usp: ['涼感', '透氣', '乾爽']
+title: 寶寶汗腺發育差異
+slug: baby-sweat-gland-development
+stage: SEE
+intent: ['FAQ']
+emotion: ['焦慮']
+usp: ['敏感肌膚友善', '透氣']
 search_volume: 
 content_count: 
 status: draft

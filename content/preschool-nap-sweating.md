@@ -1,9 +1,9 @@
-title: 抗菌睡墊推薦
-slug: antibac-mat-recommend
-stage: THINK
+title: 幼兒園午睡流汗
+slug: preschool-nap-sweating
+stage: SEE
 intent: ['Search (SEO)']
-emotion: ['焦慮', '擔心生病']
-usp: ['抗菌', '抗臭', '敏感肌膚友善']
+emotion: ['熱', '濕']
+usp: ['透氣', '快乾', '涼感']
 search_volume: 
 content_count: 
 status: draft

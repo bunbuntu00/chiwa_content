@@ -1,9 +1,9 @@
-title: 寶寶睡覺悶熱易醒
-slug: baby-sleep-overheating-waking
+title: 寶寶流汗是否正常
+slug: baby-sweating-normal
 stage: SEE
-intent: ['Search (SEO)']
-emotion: ['熱', '睡不好']
-usp: ['不悶熱', '涼感', '透氣']
+intent: ['FAQ']
+emotion: ['焦慮', '熱']
+usp: ['透氣', '乾爽']
 search_volume: 
 content_count: 
 status: draft

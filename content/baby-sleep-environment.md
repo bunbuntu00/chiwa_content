@@ -1,9 +1,9 @@
-title: 托嬰中心睡墊推薦
-slug: daycare-mat-recommend
-stage: THINK
-intent: ['Social (IG/Threads/Facebook)']
+title: 寶寶睡眠環境注意事項
+slug: baby-sleep-environment
+stage: SEE
+intent: ['FAQ']
 emotion: ['焦慮', '擔心生病']
-usp: ['可機洗', '抗菌', '抗臭']
+usp: ['透氣', '不悶熱', '溫度管理']
 search_volume: 
 content_count: 
 status: draft

@@ -1,9 +1,9 @@
-title: 敏感肌睡墊推薦
-slug: sensitive-skin-mat-recommend
-stage: THINK
+title: 寶寶枕頭悶臭
+slug: baby-pillow-odor-problem
+stage: SEE
 intent: ['Search (SEO)']
-emotion: ['擔心生病']
-usp: ['柔軟', '抗菌', '敏感肌膚友善']
+emotion: ['臭', '焦慮']
+usp: ['抗臭', '可機洗', '透氣']
 search_volume: 
 content_count: 
 status: draft

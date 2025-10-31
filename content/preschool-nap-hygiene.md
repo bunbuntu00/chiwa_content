@@ -1,9 +1,9 @@
-title: 涼感睡墊推薦
-slug: cooling-mat-recommend
+title: 幼兒園午睡衛生
+slug: preschool-nap-hygiene
 stage: THINK
-intent: ['Search (SEO)']
-emotion: ['熱']
-usp: ['涼感', '透氣', '乾爽']
+intent: ['Social (IG/Threads/Facebook)']
+emotion: ['焦慮', '擔心生病']
+usp: ['抗菌', '抗臭', '可機洗']
 search_volume: 
 content_count: 
 status: draft

@@ -1,9 +1,9 @@
-title: 快乾睡墊推薦
-slug: quick-dry-mat-recommend
-stage: THINK
-intent: ['Search (SEO)']
-emotion: ['濕']
-usp: ['快乾', '乾爽', '透氣']
+title: CHIWA 幼兒園可用嗎
+slug: chiwa-preschool-suitable
+stage: DO
+intent: ['PDP (Shopee)']
+emotion: ['焦慮']
+usp: ['可機洗', '抗臭', '抗菌']
 search_volume: 
 content_count: 
 status: draft
