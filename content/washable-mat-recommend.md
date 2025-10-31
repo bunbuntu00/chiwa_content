@@ -1,9 +1,9 @@
-title: 流汗 vs 皮膚過敏關係
-slug: sweat-skin-allergy-relation
-stage: SEE
-intent: ['FAQ']
-emotion: ['擔心生病']
-usp: ['敏感肌膚友善', '透氣', '乾爽']
+title: 可機洗睡墊推薦
+slug: washable-mat-recommend
+stage: THINK
+intent: ['Search (SEO)']
+emotion: ['焦慮']
+usp: ['可機洗', '抗菌', '快乾']
 search_volume: 
 content_count: 
 status: draft

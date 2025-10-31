@@ -1,9 +1,9 @@
-title: 睡眠悶熱的健康影響
-slug: sleep-heat-health-effects
-stage: SEE
-intent: ['FAQ']
-emotion: ['熱', '擔心生病']
-usp: ['不悶熱', '透氣', '乾爽']
+title: 抗臭睡墊推薦
+slug: odor-resistant-mat-recommend
+stage: THINK
+intent: ['Search (SEO)']
+emotion: ['臭', '焦慮']
+usp: ['抗臭', '抗菌', '可機洗']
 search_volume: 
 content_count: 
 status: draft

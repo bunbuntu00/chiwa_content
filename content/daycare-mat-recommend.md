@@ -1,9 +1,9 @@
-title: 快乾 vs 可機洗
-slug: quick-dry-vs-washable
+title: 托嬰中心睡墊推薦
+slug: daycare-mat-recommend
 stage: THINK
-intent: ['Blog']
-emotion: ['焦慮']
-usp: ['快乾', '可機洗', '抗臭']
+intent: ['Social (IG/Threads/Facebook)']
+emotion: ['焦慮', '擔心生病']
+usp: ['可機洗', '抗菌', '抗臭']
 search_volume: 
 content_count: 
 status: draft

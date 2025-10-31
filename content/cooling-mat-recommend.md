@@ -1,9 +1,9 @@
-title: 記憶棉 vs 涼感睡墊
-slug: memory-foam-vs-cooling-mat
+title: 涼感睡墊推薦
+slug: cooling-mat-recommend
 stage: THINK
-intent: ['Blog']
+intent: ['Search (SEO)']
 emotion: ['熱']
-usp: ['涼感', '不悶熱', '乾爽']
+usp: ['涼感', '透氣', '乾爽']
 search_volume: 
 content_count: 
 status: draft

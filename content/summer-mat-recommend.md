@@ -1,9 +1,9 @@
-title: 抗菌 vs 抗臭
-slug: antibac-vs-odor-control
+title: 夏天睡墊推薦
+slug: summer-mat-recommend
 stage: THINK
-intent: ['Blog']
-emotion: ['焦慮', '擔心生病']
-usp: ['抗臭', '抗菌']
+intent: ['Search (SEO)']
+emotion: ['熱', '濕']
+usp: ['涼感', '透氣', '乾爽']
 search_volume: 
 content_count: 
 status: draft

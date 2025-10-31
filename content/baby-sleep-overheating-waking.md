@@ -1,9 +1,9 @@
-title: 薄墊 vs 厚墊
-slug: thin-vs-thick-mat
-stage: THINK
-intent: ['Blog']
-emotion: ['熱']
-usp: ['透氣', '乾爽', '不悶熱']
+title: 寶寶睡覺悶熱易醒
+slug: baby-sleep-overheating-waking
+stage: SEE
+intent: ['Search (SEO)']
+emotion: ['熱', '睡不好']
+usp: ['不悶熱', '涼感', '透氣']
 search_volume: 
 content_count: 
 status: draft

@@ -1,9 +1,9 @@
-title: 涼感 vs 吸濕排汗
-slug: cooling-vs-moisture-wicking
+title: 快乾睡墊推薦
+slug: quick-dry-mat-recommend
 stage: THINK
-intent: ['Blog']
-emotion: ['熱', '濕']
-usp: ['涼感', '透氣', '不悶熱']
+intent: ['Search (SEO)']
+emotion: ['濕']
+usp: ['快乾', '乾爽', '透氣']
 search_volume: 
 content_count: 
 status: draft

@@ -1,9 +1,9 @@
-title: 涼感 vs 通風
-slug: cooling-vs-ventilation
+title: 抗菌睡墊推薦
+slug: antibac-mat-recommend
 stage: THINK
-intent: ['Blog']
-emotion: ['熱']
-usp: ['涼感', '透氣', '不悶熱']
+intent: ['Search (SEO)']
+emotion: ['焦慮', '擔心生病']
+usp: ['抗菌', '抗臭', '敏感肌膚友善']
 search_volume: 
 content_count: 
 status: draft

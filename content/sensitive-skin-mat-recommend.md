@@ -1,9 +1,9 @@
-title: 寶寶睡覺滿身汗原因
-slug: baby-sleep-sweating-causes
-stage: SEE
+title: 敏感肌睡墊推薦
+slug: sensitive-skin-mat-recommend
+stage: THINK
 intent: ['Search (SEO)']
-emotion: ['熱', '濕']
-usp: ['溫度管理', '透氣', '不悶熱']
+emotion: ['擔心生病']
+usp: ['柔軟', '抗菌', '敏感肌膚友善']
 search_volume: 
 content_count: 
 status: draft
