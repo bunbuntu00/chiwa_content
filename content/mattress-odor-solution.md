@@ -1,9 +1,9 @@
-title: 怕熱寶寶睡不好
-slug: hot-baby-poor-sleep
+title: 床墊容易臭怎麼辦
+slug: mattress-odor-solution
 stage: SEE
 intent: ['Blog']
-emotion: ['熱', '睡不好']
-usp: ['涼感', '不悶熱', '乾爽']
+emotion: ['臭', '焦慮']
+usp: ['抗臭', '抗菌', '可機洗']
 search_volume: 
 content_count: 
 status: draft

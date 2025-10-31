@@ -1,9 +1,9 @@
-title: 竹蓆 vs 涼感睡墊
-slug: bamboo-mat-vs-cooling-mat
-stage: THINK
+title: CHIWA 睡墊衛生
+slug: chiwa-hygiene
+stage: DO
 intent: ['Blog']
-emotion: ['熱']
-usp: ['不悶熱', '涼感', '透氣']
+emotion: ['焦慮', '擔心生病']
+usp: ['抗臭', '抗菌', '可機洗']
 search_volume: 
 content_count: 
 status: draft

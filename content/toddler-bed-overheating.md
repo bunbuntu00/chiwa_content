@@ -1,9 +1,9 @@
-title: 寶寶睡覺流汗臭味
-slug: baby-sleep-sweat-odor
+title: 幼兒床上悶熱困擾
+slug: toddler-bed-overheating
 stage: SEE
-intent: ['Search (SEO)']
-emotion: ['臭', '濕']
-usp: ['抗臭', '抗菌', '可機洗']
+intent: ['Blog']
+emotion: ['熱', '睡不好']
+usp: ['不悶熱', '涼感', '透氣']
 search_volume: 
 content_count: 
 status: draft

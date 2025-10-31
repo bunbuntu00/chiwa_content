@@ -1,9 +1,9 @@
-title: 寶寶睡醒枕頭濕掉
-slug: baby-pillow-wet-morning
-stage: SEE
-intent: ['Search (SEO)']
-emotion: ['濕', '焦慮']
-usp: ['快乾', '抗臭', '可機洗']
+title: 透氣 vs 涼感
+slug: breathable-vs-cooling
+stage: THINK
+intent: ['Blog']
+emotion: ['熱']
+usp: ['抗菌', '抗臭']
 search_volume: 
 content_count: 
 status: draft

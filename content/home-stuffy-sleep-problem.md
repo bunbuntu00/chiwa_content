@@ -1,9 +1,9 @@
-title: 透氣睡墊推薦
-slug: breathable-mat-recommend
-stage: THINK
-intent: ['Search (SEO)']
-emotion: ['熱', '濕']
-usp: ['透氣', '乾爽', '不悶熱']
+title: 家中悶熱難睡怎辦
+slug: home-stuffy-sleep-problem
+stage: SEE
+intent: ['Blog']
+emotion: ['熱', '睡不好']
+usp: ['不悶熱', '涼感', '透氣']
 search_volume: 
 content_count: 
 status: draft

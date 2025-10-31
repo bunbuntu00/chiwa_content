@@ -1,9 +1,9 @@
-title: 寶寶睡覺起紅疹
-slug: baby-sleep-rash
+title: 敏感肌怎麼選睡墊
+slug: sensitive-skin-mat-guide
 stage: SEE
-intent: ['Search (SEO)']
-emotion: ['擔心生病']
-usp: ['敏感肌膚友善', '透氣', '柔軟']
+intent: ['FAQ']
+emotion: ['擔心生病', '焦慮']
+usp: ['柔軟', '敏感肌膚友善', '抗菌']
 search_volume: 
 content_count: 
 status: draft

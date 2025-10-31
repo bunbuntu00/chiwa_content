@@ -1,9 +1,9 @@
-title: 夏季 vs 四季睡墊
-slug: summer-vs-all-season-mat
+title: 棉 vs 涼感纖維
+slug: cotton-vs-cooling-fiber
 stage: THINK
 intent: ['Blog']
 emotion: ['熱']
-usp: ['涼感', '透氣', '乾爽']
+usp: ['涼感', '透氣', '快乾']
 search_volume: 
 content_count: 
 status: draft

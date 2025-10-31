@@ -1,9 +1,9 @@
-title: CHIWA 睡墊材質
-slug: chiwa-material
-stage: DO
+title: 夏天寶寶汗臭
+slug: summer-baby-sweat-odor
+stage: SEE
 intent: ['Blog']
-emotion: ['焦慮']
-usp: ['敏感肌膚友善', '涼感', '柔軟']
+emotion: ['臭', '熱']
+usp: ['抗臭', '抗菌', '快乾']
 search_volume: 
 content_count: 
 status: draft
