@@ -1,13 +1,13 @@
-title: 寶寶流汗是否正常
-slug: baby-sweating-normal
+title: 怕熱寶寶睡不好
+slug: hot-baby-poor-sleep
 stage: SEE
-intent: ['FAQ']
-emotion: ['焦慮', '熱']
-usp: ['透氣', '乾爽']
+intent: ['Blog']
+emotion: ['熱', '睡不好']
+usp: ['涼感', '不悶熱', '乾爽']
 search_volume: 
 content_count: 
 status: draft
-date: 2025-10-31
+date: 2025-11-01
 platform_variants: []
 related_keywords: []
 todo: ['fill body', 'verify metadata vs Notion']

@@ -1,13 +1,13 @@
-title: CHIWA 幼兒園可用嗎
-slug: chiwa-preschool-suitable
+title: CHIWA 睡墊材質
+slug: chiwa-material
 stage: DO
-intent: ['PDP (Shopee)']
+intent: ['Blog']
 emotion: ['焦慮']
-usp: ['可機洗', '抗臭', '抗菌']
+usp: ['敏感肌膚友善', '涼感', '柔軟']
 search_volume: 
 content_count: 
 status: draft
-date: 2025-10-31
+date: 2025-11-01
 platform_variants: []
 related_keywords: []
 todo: ['fill body', 'verify metadata vs Notion']

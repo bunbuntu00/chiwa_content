@@ -1,13 +1,13 @@
-title: 寶寶睡覺頭很臭
-slug: baby-head-odor-sleeping
-stage: SEE
+title: 透氣睡墊推薦
+slug: breathable-mat-recommend
+stage: THINK
 intent: ['Search (SEO)']
-emotion: ['臭', '焦慮']
-usp: ['可機洗', '抗臭', '抗菌']
+emotion: ['熱', '濕']
+usp: ['透氣', '乾爽', '不悶熱']
 search_volume: 
 content_count: 
 status: draft
-date: 2025-10-31
+date: 2025-11-01
 platform_variants: []
 related_keywords: []
 todo: ['fill body', 'verify metadata vs Notion']

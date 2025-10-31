@@ -1,13 +1,13 @@
-title: 寶寶睡覺為何流汗
-slug: why-baby-sweat-sleeping
-stage: SEE
+title: CHIWA 睡墊怎麼洗
+slug: chiwa-mat-washing
+stage: DO
 intent: ['FAQ']
-emotion: ['焦慮', '熱']
-usp: ['透氣', '溫度管理']
+emotion: ['焦慮']
+usp: ['可機洗', '抗菌', '快乾']
 search_volume: 
 content_count: 
 status: draft
-date: 2025-10-31
+date: 2025-11-01
 platform_variants: []
 related_keywords: []
 todo: ['fill body', 'verify metadata vs Notion']
