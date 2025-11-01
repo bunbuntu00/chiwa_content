@@ -1,10 +1,10 @@
 ---
-title: "抗菌睡墊推薦"
-slug: "antibac-mat-recommend"
+title: "幼兒園午睡墊推薦"
+slug: "preschool-nap-mat-recommend"
 stage: "THINK"
-intent: ["Search (SEO)"]
-emotion: ["焦慮", "擔心生病"]
-usp: ["抗菌", "抗臭", "敏感肌膚友善"]
+intent: ["Social (IG/Threads/Facebook)"]
+emotion: ["焦慮", "臭"]
+usp: ["可機洗", "抗菌", "抗臭"]
 search_volume: 0
 content_count: 0
 status: draft

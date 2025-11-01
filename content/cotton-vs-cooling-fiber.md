@@ -1,10 +1,10 @@
 ---
-title: "寶寶睡覺流汗臭味"
-slug: "baby-sleep-sweat-odor"
-stage: "SEE"
-intent: ["Search (SEO)"]
-emotion: ["臭", "濕"]
-usp: ["抗臭", "抗菌", "可機洗"]
+title: "棉 vs 涼感纖維"
+slug: "cotton-vs-cooling-fiber"
+stage: "THINK"
+intent: ["Blog"]
+emotion: ["熱"]
+usp: ["涼感", "透氣", "快乾"]
 search_volume: 0
 content_count: 0
 status: draft

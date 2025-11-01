@@ -1,10 +1,10 @@
 ---
-title: "抗臭睡墊推薦"
-slug: "odor-resistant-mat-recommend"
-stage: "THINK"
-intent: ["Search (SEO)"]
-emotion: ["臭", "焦慮"]
-usp: ["抗臭", "抗菌", "可機洗"]
+title: "CHIWA 涼感睡墊好用嗎"
+slug: "chiwa-cooling-mat-review"
+stage: "DO"
+intent: ["PDP (Shopee)"]
+emotion: ["熱", "焦慮"]
+usp: ["涼感", "透氣", "乾爽"]
 search_volume: 0
 content_count: 0
 status: draft

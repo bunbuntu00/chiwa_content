@@ -1,10 +1,10 @@
 ---
-title: "CHIWA 午睡墊評價"
-slug: "chiwa-cooling-vs-mat"
+title: "CHIWA 涼感 vs 一般睡墊"
+slug: "chiwa-cooling-vs-standard"
 stage: "DO"
-intent: ["PDP (Shopee)"]
-emotion: ["焦慮"]
-usp: ["可機洗", "抗菌", "抗臭"]
+intent: ["Blog"]
+emotion: ["熱"]
+usp: ["涼感", "不悶熱", "透氣"]
 search_volume: 0
 content_count: 0
 status: draft

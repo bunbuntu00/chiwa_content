@@ -1,10 +1,10 @@
 ---
-title: "抗菌 vs 抗臭"
-slug: "antibac-vs-odor-control"
+title: "涼感 vs 通風"
+slug: "cooling-vs-ventilation"
 stage: "THINK"
 intent: ["Blog"]
-emotion: ["焦慮", "擔心生病"]
-usp: ["抗臭", "抗菌"]
+emotion: ["熱"]
+usp: ["涼感", "透氣", "不悶熱"]
 search_volume: 0
 content_count: 0
 status: draft

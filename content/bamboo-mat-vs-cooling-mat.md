@@ -1,10 +1,10 @@
 ---
-title: "托育午睡流汗"
-slug: "daycare-nap-sweating"
-stage: "SEE"
-intent: ["Search (SEO)"]
-emotion: ["熱", "濕"]
-usp: ["涼感", "快乾", "透氣"]
+title: "竹蓆 vs 涼感睡墊"
+slug: "bamboo-mat-vs-cooling-mat"
+stage: "THINK"
+intent: ["Blog"]
+emotion: ["熱"]
+usp: ["不悶熱", "涼感", "透氣"]
 search_volume: 0
 content_count: 0
 status: draft

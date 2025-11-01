@@ -1,10 +1,10 @@
 ---
-title: "可機洗睡墊推薦"
-slug: "washable-mat-recommend"
-stage: "THINK"
-intent: ["Search (SEO)"]
-emotion: ["焦慮"]
-usp: ["可機洗", "抗菌", "快乾"]
+title: "敏感肌怎麼選睡墊"
+slug: "sensitive-skin-mat-guide"
+stage: "SEE"
+intent: ["FAQ"]
+emotion: ["擔心生病", "焦慮"]
+usp: ["柔軟", "敏感肌膚友善", "抗菌"]
 search_volume: 0
 content_count: 0
 status: draft

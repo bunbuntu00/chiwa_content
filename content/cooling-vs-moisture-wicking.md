@@ -1,10 +1,10 @@
 ---
-title: "夏天寶寶汗臭"
-slug: "summer-baby-sweat-odor"
-stage: "SEE"
+title: "涼感 vs 吸濕排汗"
+slug: "cooling-vs-moisture-wicking"
+stage: "THINK"
 intent: ["Blog"]
-emotion: ["臭", "熱"]
-usp: ["抗臭", "抗菌", "快乾"]
+emotion: ["熱", "濕"]
+usp: ["涼感", "透氣", "不悶熱"]
 search_volume: 0
 content_count: 0
 status: draft

@@ -1,10 +1,10 @@
 ---
-title: "床墊容易臭怎麼辦"
-slug: "mattress-odor-solution"
+title: "幼兒床上悶熱困擾"
+slug: "toddler-bed-overheating"
 stage: "SEE"
 intent: ["Blog"]
-emotion: ["臭", "焦慮"]
-usp: ["抗臭", "抗菌", "可機洗"]
+emotion: ["熱", "睡不好"]
+usp: ["不悶熱", "涼感", "透氣"]
 search_volume: 0
 content_count: 0
 status: draft
