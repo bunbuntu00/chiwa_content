@@ -1,14 +1,14 @@
 ---
-title: "怕熱寶寶睡不好"
-slug: "hot-baby-poor-sleep"
+title: "汗菌與衣物異味關係"
+slug: "sweat-bacteria-odor"
 stage: "SEE"
-intent: ["Blog"]
-emotion: ["熱", "睡不好"]
-usp: ["涼感", "不悶熱", "乾爽"]
+intent: ["FAQ"]
+emotion: ["臭", "焦慮"]
+usp: ["抗臭", "抗菌", "可機洗"]
 search_volume: 0
 content_count: 0
 status: draft
-date: 2025-11-01
+date: 2025-11-02
 platform_variants: []
 related_keywords: []
 todo: ["fill body", "verify metadata vs Notion"]

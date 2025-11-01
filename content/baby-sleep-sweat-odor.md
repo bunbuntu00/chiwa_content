@@ -1,14 +1,14 @@
 ---
-title: "睡眠悶熱的健康影響"
-slug: "sleep-heat-health-effects"
+title: "寶寶睡覺流汗臭味"
+slug: "baby-sleep-sweat-odor"
 stage: "SEE"
-intent: ["FAQ"]
-emotion: ["熱", "擔心生病"]
-usp: ["不悶熱", "透氣", "乾爽"]
+intent: ["Search (SEO)"]
+emotion: ["臭", "濕"]
+usp: ["抗臭", "抗菌", "可機洗"]
 search_volume: 0
 content_count: 0
 status: draft
-date: 2025-11-01
+date: 2025-11-02
 platform_variants: []
 related_keywords: []
 todo: ["fill body", "verify metadata vs Notion"]

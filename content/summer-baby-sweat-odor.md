@@ -1,14 +1,14 @@
 ---
-title: "記憶棉 vs 涼感睡墊"
-slug: "memory-foam-vs-cooling-mat"
-stage: "THINK"
+title: "夏天寶寶汗臭"
+slug: "summer-baby-sweat-odor"
+stage: "SEE"
 intent: ["Blog"]
-emotion: ["熱"]
-usp: ["涼感", "不悶熱", "乾爽"]
+emotion: ["臭", "熱"]
+usp: ["抗臭", "抗菌", "快乾"]
 search_volume: 0
 content_count: 0
 status: draft
-date: 2025-11-01
+date: 2025-11-02
 platform_variants: []
 related_keywords: []
 todo: ["fill body", "verify metadata vs Notion"]
