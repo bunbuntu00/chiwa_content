@@ -1,10 +1,10 @@
 ---
-title: 睡眠悶熱的健康影響
-slug: sleep-heat-health-effects
+title: 流汗 vs 皮膚過敏關係
+slug: sweat-skin-allergy-relation
 stage: SEE
 intent: [FAQ]
-emotion: [熱, 擔心生病]
-usp: [不悶熱, 透氣, 乾爽]
+emotion: [擔心生病]
+usp: [敏感肌膚友善, 透氣, 乾爽]
 search_volume: 0
 content_count: 0
 status: draft

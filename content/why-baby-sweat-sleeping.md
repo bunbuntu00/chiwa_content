@@ -1,10 +1,10 @@
 ---
-title: 睡眠悶熱的健康影響
-slug: sleep-heat-health-effects
+title: 寶寶睡覺為何流汗
+slug: why-baby-sweat-sleeping
 stage: SEE
 intent: [FAQ]
-emotion: [熱, 擔心生病]
-usp: [不悶熱, 透氣, 乾爽]
+emotion: [焦慮, 熱]
+usp: [透氣, 溫度管理]
 search_volume: 0
 content_count: 0
 status: draft

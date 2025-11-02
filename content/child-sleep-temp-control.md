@@ -1,10 +1,10 @@
 ---
-title: 睡眠悶熱的健康影響
-slug: sleep-heat-health-effects
+title: 孩童睡眠溫度控制
+slug: child-sleep-temp-control
 stage: SEE
 intent: [FAQ]
-emotion: [熱, 擔心生病]
-usp: [不悶熱, 透氣, 乾爽]
+emotion: [熱, 焦慮]
+usp: [溫度管理, 涼感, 不悶熱]
 search_volume: 0
 content_count: 0
 status: draft

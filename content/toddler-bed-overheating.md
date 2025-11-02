@@ -1,10 +1,10 @@
 ---
-title: 睡眠悶熱的健康影響
-slug: sleep-heat-health-effects
+title: 幼兒床上悶熱困擾
+slug: toddler-bed-overheating
 stage: SEE
-intent: [FAQ]
-emotion: [熱, 擔心生病]
-usp: [不悶熱, 透氣, 乾爽]
+intent: [Blog]
+emotion: [熱, 睡不好]
+usp: [不悶熱, 涼感, 透氣]
 search_volume: 0
 content_count: 0
 status: draft
