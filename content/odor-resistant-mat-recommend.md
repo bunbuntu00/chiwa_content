@@ -1,10 +1,10 @@
 ---
-title: "夏天睡墊推薦"
-slug: "summer-mat-recommend"
+title: "抗臭睡墊推薦"
+slug: "odor-resistant-mat-recommend"
 stage: "THINK"
 intent: ["Search (SEO)"]
-emotion: ["熱", "濕"]
-usp: ["涼感", "透氣", "乾爽"]
+emotion: ["臭", "焦慮"]
+usp: ["抗臭", "抗菌", "可機洗"]
 search_volume: 0
 content_count: 0
 status: draft

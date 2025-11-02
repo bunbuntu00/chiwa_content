@@ -1,10 +1,10 @@
 ---
-title: "記憶棉 vs 涼感睡墊"
-slug: "memory-foam-vs-cooling-mat"
+title: "幼兒園午睡墊推薦"
+slug: "preschool-nap-mat-recommend"
 stage: "THINK"
-intent: ["Blog"]
-emotion: ["熱"]
-usp: ["涼感", "不悶熱", "乾爽"]
+intent: ["Social (IG/Threads/Facebook)"]
+emotion: ["焦慮", "臭"]
+usp: ["可機洗", "抗菌", "抗臭"]
 search_volume: 0
 content_count: 0
 status: draft

@@ -1,10 +1,10 @@
 ---
-title: "寶寶汗腺發育差異"
-slug: "baby-sweat-gland-development"
+title: "寶寶睡覺起紅疹"
+slug: "baby-sleep-rash"
 stage: "SEE"
-intent: ["FAQ"]
-emotion: ["焦慮"]
-usp: ["敏感肌膚友善", "透氣"]
+intent: ["Search (SEO)"]
+emotion: ["擔心生病"]
+usp: ["敏感肌膚友善", "透氣", "柔軟"]
 search_volume: 0
 content_count: 0
 status: draft

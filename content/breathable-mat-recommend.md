@@ -1,10 +1,10 @@
 ---
-title: "夏季 vs 四季睡墊"
-slug: "summer-vs-all-season-mat"
+title: "透氣睡墊推薦"
+slug: "breathable-mat-recommend"
 stage: "THINK"
-intent: ["Blog"]
-emotion: ["熱"]
-usp: ["涼感", "透氣", "乾爽"]
+intent: ["Search (SEO)"]
+emotion: ["熱", "濕"]
+usp: ["透氣", "乾爽", "不悶熱"]
 search_volume: 0
 content_count: 0
 status: draft

@@ -1,10 +1,10 @@
 ---
-title: "CHIWA 涼感 vs 一般睡墊"
-slug: "chiwa-cooling-vs-standard"
-stage: "DO"
-intent: ["Blog"]
-emotion: ["熱"]
-usp: ["涼感", "不悶熱", "透氣"]
+title: "敏感肌睡墊推薦"
+slug: "sensitive-skin-mat-recommend"
+stage: "THINK"
+intent: ["Search (SEO)"]
+emotion: ["擔心生病"]
+usp: ["柔軟", "抗菌", "敏感肌膚友善"]
 search_volume: 0
 content_count: 0
 status: draft
