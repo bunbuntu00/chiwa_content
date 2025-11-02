@@ -1,10 +1,10 @@
 ---
-title: 寶寶睡覺滿身汗原因
-slug: baby-sleep-sweating-causes
-stage: SEE
-intent: [Search (SEO)]
-emotion: [熱, 濕]
-usp: [溫度管理, 透氣, 不悶熱]
+title: 幼兒園午睡衛生
+slug: preschool-nap-hygiene
+stage: THINK
+intent: [Social (IG/Threads/Facebook)]
+emotion: [焦慮, 擔心生病]
+usp: [抗菌, 抗臭, 可機洗]
 search_volume: 0
 content_count: 0
 status: draft

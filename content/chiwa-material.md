@@ -1,10 +1,10 @@
 ---
-title: 寶寶睡覺滿身汗原因
-slug: baby-sleep-sweating-causes
-stage: SEE
-intent: [Search (SEO)]
-emotion: [熱, 濕]
-usp: [溫度管理, 透氣, 不悶熱]
+title: CHIWA 睡墊材質
+slug: chiwa-material
+stage: DO
+intent: [Blog]
+emotion: [焦慮]
+usp: [敏感肌膚友善, 涼感, 柔軟]
 search_volume: 0
 content_count: 0
 status: draft

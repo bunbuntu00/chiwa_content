@@ -1,10 +1,10 @@
 ---
-title: 寶寶睡覺滿身汗原因
-slug: baby-sleep-sweating-causes
+title: 流汗多要看醫生嗎
+slug: excessive-sweating-doctor
 stage: SEE
-intent: [Search (SEO)]
-emotion: [熱, 濕]
-usp: [溫度管理, 透氣, 不悶熱]
+intent: [FAQ]
+emotion: [焦慮, 擔心生病]
+usp: [溫度管理, 敏感肌膚友善]
 search_volume: 0
 content_count: 0
 status: draft
