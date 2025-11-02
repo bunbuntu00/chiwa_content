@@ -1,10 +1,10 @@
 ---
-title: 涼感 vs 通風
-slug: cooling-vs-ventilation
+title: CHIWA 幼兒園可用嗎
+slug: chiwa-preschool-suitable
 stage: THINK
-intent: [Comparison]
-emotion: [好奇]
-usp: [涼感, 通風, 透氣]
+intent: [FAQ]
+emotion: [安心, 焦慮]
+usp: [抗菌, 可機洗, 不悶熱]
 search_volume: 0
 content_count: 0
 status: draft
