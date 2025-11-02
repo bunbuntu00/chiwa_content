@@ -1,10 +1,10 @@
 ---
-title: "寶寶睡覺爆汗怎麼辦"
-slug: "baby-sleep-heavy-sweating"
+title: "寶寶汗腺發育差異"
+slug: "baby-sweat-gland-development"
 stage: "SEE"
-intent: ["Search (SEO)"]
-emotion: ["熱", "濕"]
-usp: ["涼感", "溫度管理", "透氣", "乾爽"]
+intent: ["FAQ"]
+emotion: ["焦慮"]
+usp: ["敏感肌膚友善", "透氣"]
 search_volume: 0
 content_count: 0
 status: draft

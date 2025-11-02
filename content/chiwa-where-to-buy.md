@@ -1,10 +1,10 @@
 ---
-title: "寶寶睡覺頭很臭"
-slug: "baby-head-odor-sleeping"
-stage: "SEE"
-intent: ["Search (SEO)"]
-emotion: ["臭", "焦慮"]
-usp: ["可機洗", "抗臭", "抗菌"]
+title: "CHIWA 哪裡買"
+slug: "chiwa-where-to-buy"
+stage: "DO"
+intent: ["PDP (Shopee)"]
+emotion: ["焦慮"]
+usp: ["涼感", "透氣"]
 search_volume: 0
 content_count: 0
 status: draft

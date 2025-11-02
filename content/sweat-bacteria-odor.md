@@ -1,10 +1,10 @@
 ---
-title: "寶寶枕頭悶臭"
-slug: "baby-pillow-odor-problem"
+title: "汗菌與衣物異味關係"
+slug: "sweat-bacteria-odor"
 stage: "SEE"
-intent: ["Search (SEO)"]
+intent: ["FAQ"]
 emotion: ["臭", "焦慮"]
-usp: ["抗臭", "可機洗", "透氣"]
+usp: ["抗臭", "抗菌", "可機洗"]
 search_volume: 0
 content_count: 0
 status: draft
