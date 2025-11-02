@@ -1,10 +1,10 @@
 ---
-title: "寶寶睡覺被子濕掉"
-slug: "baby-sleep-wet-blanket"
+title: "睡眠悶熱的健康影響"
+slug: "sleep-heat-health-effects"
 stage: "SEE"
-intent: ["Search (SEO)"]
-emotion: ["濕", "黏"]
-usp: ["不悶熱", "乾爽", "快乾"]
+intent: ["FAQ"]
+emotion: ["熱", "擔心生病"]
+usp: ["不悶熱", "透氣", "乾爽"]
 search_volume: 0
 content_count: 0
 status: draft

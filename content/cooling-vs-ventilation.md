@@ -1,10 +1,10 @@
 ---
-title: "CHIWA 哪裡買"
-slug: "chiwa-where-to-buy"
-stage: "DO"
-intent: ["PDP (Shopee)"]
-emotion: ["焦慮"]
-usp: ["涼感", "透氣"]
+title: "涼感 vs 通風"
+slug: "cooling-vs-ventilation"
+stage: "THINK"
+intent: ["Blog"]
+emotion: ["熱"]
+usp: ["涼感", "透氣", "不悶熱"]
 search_volume: 0
 content_count: 0
 status: draft

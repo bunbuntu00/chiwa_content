@@ -1,10 +1,10 @@
 ---
-title: "托嬰中心睡墊推薦"
-slug: "daycare-mat-recommend"
+title: "棉 vs 涼感纖維"
+slug: "cotton-vs-cooling-fiber"
 stage: "THINK"
-intent: ["Social (IG/Threads/Facebook)"]
-emotion: ["焦慮", "擔心生病"]
-usp: ["可機洗", "抗菌", "抗臭"]
+intent: ["Blog"]
+emotion: ["熱"]
+usp: ["涼感", "透氣", "快乾"]
 search_volume: 0
 content_count: 0
 status: draft

@@ -1,10 +1,10 @@
 ---
-title: "寶寶汗腺發育差異"
-slug: "baby-sweat-gland-development"
-stage: "SEE"
-intent: ["FAQ"]
-emotion: ["焦慮"]
-usp: ["敏感肌膚友善", "透氣"]
+title: "涼感 vs 吸濕排汗"
+slug: "cooling-vs-moisture-wicking"
+stage: "THINK"
+intent: ["Blog"]
+emotion: ["熱", "濕"]
+usp: ["涼感", "透氣", "不悶熱"]
 search_volume: 0
 content_count: 0
 status: draft
