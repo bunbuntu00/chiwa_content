@@ -1,10 +1,10 @@
 ---
-title: "敏感肌怎麼選睡墊"
-slug: "sensitive-skin-mat-guide"
+title: "家中悶熱難睡怎辦"
+slug: "home-stuffy-sleep-problem"
 stage: "SEE"
-intent: ["FAQ"]
-emotion: ["擔心生病", "焦慮"]
-usp: ["柔軟", "敏感肌膚友善", "抗菌"]
+intent: ["Blog"]
+emotion: ["熱", "睡不好"]
+usp: ["不悶熱", "涼感", "透氣"]
 search_volume: 0
 content_count: 0
 status: draft

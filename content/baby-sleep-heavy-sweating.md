@@ -1,10 +1,10 @@
 ---
-title: "夏天睡墊推薦"
-slug: "summer-mat-recommend"
-stage: "THINK"
+title: "寶寶睡覺爆汗怎麼辦"
+slug: "baby-sleep-heavy-sweating"
+stage: "SEE"
 intent: ["Search (SEO)"]
 emotion: ["熱", "濕"]
-usp: ["涼感", "透氣", "乾爽"]
+usp: ["涼感", "溫度管理", "透氣", "乾爽"]
 search_volume: 0
 content_count: 0
 status: draft

@@ -1,10 +1,10 @@
 ---
-title: "CHIWA 幼兒園可用嗎"
-slug: "chiwa-preschool-suitable"
-stage: "DO"
-intent: ["PDP (Shopee)"]
-emotion: ["焦慮"]
-usp: ["可機洗", "抗臭", "抗菌"]
+title: "寶寶枕頭悶臭"
+slug: "baby-pillow-odor-problem"
+stage: "SEE"
+intent: ["Search (SEO)"]
+emotion: ["臭", "焦慮"]
+usp: ["抗臭", "可機洗", "透氣"]
 search_volume: 0
 content_count: 0
 status: draft

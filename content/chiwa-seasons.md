@@ -1,10 +1,10 @@
 ---
-title: "涼感 vs 吸濕排汗"
-slug: "cooling-vs-moisture-wicking"
-stage: "THINK"
+title: "CHIWA 適用季節"
+slug: "chiwa-seasons"
+stage: "DO"
 intent: ["Blog"]
-emotion: ["熱", "濕"]
-usp: ["涼感", "透氣", "不悶熱"]
+emotion: ["熱"]
+usp: ["涼感", "乾爽", "不悶熱"]
 search_volume: 0
 content_count: 0
 status: draft

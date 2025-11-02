@@ -1,10 +1,10 @@
 ---
-title: "CHIWA 涼感 vs 一般睡墊"
-slug: "chiwa-cooling-vs-standard"
-stage: "DO"
-intent: ["Blog"]
-emotion: ["熱"]
-usp: ["涼感", "不悶熱", "透氣"]
+title: "寶寶睡覺頭很臭"
+slug: "baby-head-odor-sleeping"
+stage: "SEE"
+intent: ["Search (SEO)"]
+emotion: ["臭", "焦慮"]
+usp: ["可機洗", "抗臭", "抗菌"]
 search_volume: 0
 content_count: 0
 status: draft
